@@ -44,20 +44,20 @@
     position: relative;
     overflow: hidden;
 }
-.red {
+.red{
     position: absolute;
     width: 20px;
     z-index: 2;
     opacity: 0.8;
     animation: sharj 40s linear infinite;
-    top: -100px; /* Можно оставить прежнее положение начала */
+    top: -500px;
 }
 @keyframes sharj {
-    from {
-        top: -50px;
+    from{
+        top: -150px;
     }
-    to {
-        top: calc(100vh); /* Ограничиваем перемещение сердечками */
+    to{
+        top: 3500px;
     }
 }
 .red1{
