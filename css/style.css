@@ -57,7 +57,7 @@
         top: -150px;
     }
     to{
-        top: 3500px;
+        top: calc(100vh - 5%);
     }
 }
 .red1{
