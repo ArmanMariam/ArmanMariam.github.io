@@ -444,11 +444,11 @@ footer{
         margin: 30px;
     }
     .contanier{
-        padding: 30px;
+        padding: 25px;
     }
     .secondContanier {
-        margin-top: 10px;
-        padding-bottom: 40px;
+        margin-bottom: -10px;
+        padding-bottom: 25px;
     }
     .amusnakan,
     .amusnakanLeft{
