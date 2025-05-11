@@ -297,17 +297,12 @@ strong{
 }
 .amusnakan,
 .amusnakanLeft{
-    position: absolute;
-    left: -44px;
-    font-size: 48px;
-    color: #ffebcd;
-    top: 100px;
-    padding: 20px;
-}
-.amusnakanLeft{
-     background-color: #e22c89;
-     border-radius: 20px;
-}
+        position: absolute;
+        left: -44px;
+        top: 100px;
+        width: 90px; /* Устанавливаем желаемую ширину изображения */
+        height: auto; /* Пропорционально уменьшаем высоту */
+    }
 .programH1{
     padding: 30px;
     color: black;
