@@ -453,6 +453,8 @@ footer{
     .programH1,
     .programP{
         padding: 15px;
+        padding-right: 0;
+        padding-left: 30px;
     }
     .programH1{
         font-size: 20px;
@@ -489,6 +491,7 @@ footer{
     }
     .program{
         width: 100%;
+        padding: 10px;
     }
     footer{
         font-size: 10px;
